@@ -1,0 +1,48 @@
+.headerName {
+	margin: 0;
+	margin-bottom: .6em;
+	padding: 0;
+	font-size: 3em;
+}
+
+.headerDesc {
+	margin: 0;
+	padding: 0;
+	padding-left: 2em;
+	font-size: .8em;
+}
+
+.projectSection {
+	margin: 0;
+	padding: 3em 2em;
+
+	img {
+		display: inline-block;
+	}
+
+	div {
+		display: inline-block;
+		margin-left: 2em;
+
+		h2 {
+			font-size: 1.9em;
+		}
+
+		p {
+			font-size: 1em;
+		}
+
+	}
+
+}
+
+#post1 {
+	background: #F2F2F2;
+}
+
+#post2 {
+	background: #C9E2F2;
+}
+#post3 {
+	background: #A7BCD9;
+}

@@ -1,0 +1,17 @@
+@import '_vars.scss';
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: $font-stack-primary;
+	color: #33332D;
+	background: #fff;
+}
+
+header {
+	margin: 0;
+	padding: 5em 0;
+	padding-top: 3em;
+	text-align: center;
+	background: #fff;
+}

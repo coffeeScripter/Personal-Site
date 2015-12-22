@@ -1,0 +1,37 @@
+@import '_vars.scss';
+
+.mainContent {
+	position: relative;
+	top: 3em;
+	margin: 0;
+	margin-left: 150px;
+	margin-right: 50px;
+}
+
+.postSection {
+	max-width: 950px;
+	margin: 0 auto;
+	margin-bottom: 4em;
+	padding: 3em;
+	color: #33332D;
+	background: #fff;
+}
+
+.postSection .postTitle {
+	margin: 0;
+	margin-bottom: 1em;
+	padding: 0;
+	font-size: 3.7em;
+	font-family: $font-stack-secondary;
+	font-weight: 700;
+	text-align: center;
+
+	p {
+		margin: 1em 0;
+		text-indent: 1.2em;
+		line-height: 1.8em;
+		font-size: 1.3em;
+		font-weight: 300;
+	}
+
+}
